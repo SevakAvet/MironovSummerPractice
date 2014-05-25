@@ -1,0 +1,2913 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.1.27)  24 MAY 2014 15:42
+entering extended mode
+**D:/Dropbox/csit-2014/Студенты/word2tex*Avetisian/Donis/Donis.tex
+("D:/Dropbox/csit-2014/Студенты/word2tex Avetisian/Donis/Donis.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(D:\_Full_TeX\texmf\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(D:\_Full_TeX\texmf\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\Dropbox\csit-2014\Студенты\word2tex Avetisian\Donis\csit-2014.sty"
+Package: csit-2014 2012/03/01 International conference on Computer Science and 
+Information Technology (CSIT-2014)
+(D:\_Full_TeX\texmf\tex\latex\base\inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(D:\_Full_TeX\texmf\tex\latex\cyrillic\cp1251.def
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+(D:\_Full_TeX\texmf\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(D:\_Full_TeX\texmf\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+(D:\_Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(D:\_Full_TeX\texmf\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\_Full_TeX\texmf\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\_Full_TeX\texmf\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(D:\_Full_TeX\texmf\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\_Full_TeX\texmf\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen103
+))
+(D:\_Full_TeX\texmf\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(D:\_Full_TeX\texmf\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks18
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks19
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(D:\_Full_TeX\texmf\tex\latex\jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(D:\_Full_TeX\texmf\tex\latex\amsfonts\euscript.sty
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(D:\_Full_TeX\texmf\tex\latex\was\upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(D:\_Full_TeX\texmf\tex\generic\babel\babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\_Full_TeX\texmf\tex\latex\00miktex\bblopts.cfg
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(D:\_Full_TeX\texmf\tex\generic\babel\english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(D:\_Full_TeX\texmf\tex\generic\babel\babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen112
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(D:\_Full_TeX\texmf\tex\generic\babel\russianb.ldf
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+Package babel Info: Making " an active character on input line 199.
+))
+(D:\_Full_TeX\texmf\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks22
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(D:\_Full_TeX\texmf\tex\latex\tools\theorem.sty
+Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks23
+\theorem@bodyfont=\toks24
+\theorempreskipamount=\skip48
+\theorempostskipamount=\skip49
+
+(D:\_Full_TeX\texmf\tex\latex\tools\thp.sty
+File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+))
+(D:\_Full_TeX\texmf\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(D:\_Full_TeX\texmf\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks25
+\float@box=\box28
+\@float@everytoks=\toks26
+\@floatcapt=\box29
+)
+(D:\_Full_TeX\texmf\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks27
+\c@algorithm=\count101
+)
+(D:\_Full_TeX\texmf\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(D:\_Full_TeX\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+\c@ALC@unique=\count102
+\c@ALC@line=\count103
+\c@ALC@rem=\count104
+\c@ALC@depth=\count105
+\ALC@tlm=\skip50
+\algorithmicindent=\skip51
+)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xy.sty
+(D:\_Full_TeX\texmf\tex\generic\xypic\xy.tex Bootstrap'ing: catcodes, docmode,
+(D:\_Full_TeX\texmf\tex\generic\xypic\xyrecat.tex)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xyidioms.tex)
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen115
+\Y@c=\dimen116
+\U@c=\dimen117
+\D@c=\dimen118
+\L@c=\dimen119
+\R@c=\dimen120
+\Edge@c=\toks29
+\X@p=\dimen121
+\Y@p=\dimen122
+\U@p=\dimen123
+\D@p=\dimen124
+\L@p=\dimen125
+\R@p=\dimen126
+\Edge@p=\toks30
+\X@origin=\dimen127
+\Y@origin=\dimen128
+\X@xbase=\dimen129
+\Y@xbase=\dimen130
+\X@ybase=\dimen131
+\Y@ybase=\dimen132
+\X@min=\dimen133
+\Y@min=\dimen134
+\X@max=\dimen135
+\Y@max=\dimen136
+\lastobjectbox@=\box30
+\zerodotbox@=\box31
+\almostz@=\dimen137
+ direction,
+\d@X=\dimen138
+\d@Y=\dimen139
+\K@=\count106
+\KK@=\count107
+\Direction=\count108
+\K@dXdY=\dimen140
+\K@dYdX=\dimen141
+\xyread@=\read1
+\xywrite@=\write3
+\csp@=\count109
+\quotPTK@=\dimen142
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks31
+\connectobjectbox@@=\box32
+ objects,
+\styletoks@=\toks32
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(D:\_Full_TeX\texmf\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+
+(D:\_Full_TeX\texmf\tex\generic\xypic\xyall.tex
+ Xy-pic option: All features v.3.8
+(D:\_Full_TeX\texmf\tex\generic\xypic\xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count110
+\crvpts@=\toks33
+\splinebox@=\box33
+\splineval@=\dimen143
+\splinedepth@=\dimen144
+\splinetol@=\dimen145
+\splinelength@=\dimen146
+ circles,
+\L@=\dimen147
+ loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.7
+(D:\_Full_TeX\texmf\tex\generic\xypic\xytips.tex
+ Xy-pic option: More Tips extension v.3.11 loaded) loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xyline.tex
+ Xy-pic option: Line styles extension v.3.10
+\xylinethick@=\dimen148
+ loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.8 loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xycolor.tex
+ Xy-pic option: Colour extension v.3.11 loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xymatrix.tex
+ Xy-pic option: Matrix feature v.3.14
+\Row=\count111
+\Col=\count112
+\queue@=\toks34
+\queue@@=\toks35
+\qcount@=\count113
+\qcount@@=\count114
+\matrixsize@=\count115
+ loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xygraph.tex
+ Xy-pic option: Graph feature v.3.11 loaded) loaded)
+(D:\_Full_TeX\texmf\tex\generic\xypic\xypdf.tex
+ Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `color' extension support
+(D:\_Full_TeX\texmf\tex\generic\xypic\xypdf-co.tex loaded)
+Xy-pic pdf driver: `curve' extension support
+(D:\_Full_TeX\texmf\tex\generic\xypic\xypdf-cu.tex loaded)
+Xy-pic pdf driver: `frame' extension support
+(D:\_Full_TeX\texmf\tex\generic\xypic\xypdf-fr.tex loaded)
+Xy-pic pdf driver: `line' extension support
+(D:\_Full_TeX\texmf\tex\generic\xypic\xypdf-li.tex loaded)
+Xy-pic pdf driver: `rotate' extension support
+(D:\_Full_TeX\texmf\tex\generic\xypic\xypdf-ro.tex loaded) loaded))
+(D:\_Full_TeX\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\_Full_TeX\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\_Full_TeX\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\_Full_TeX\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(D:\_Full_TeX\texmf\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(D:\_Full_TeX\texmf\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(D:\_Full_TeX\texmf\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count116
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(D:\_Full_TeX\texmf\tex\latex\pgf\frontendlayer\tikz.sty
+(D:\_Full_TeX\texmf\tex\latex\pgf\basiclayer\pgf.sty
+(D:\_Full_TeX\texmf\tex\latex\pgf\utilities\pgfrcs.sty
+(D:\_Full_TeX\texmf\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks36
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box34
+
+(D:\_Full_TeX\texmf\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(D:\_Full_TeX\texmf\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(D:\_Full_TeX\texmf\tex\latex\pgf\basiclayer\pgfcore.sty
+(D:\_Full_TeX\texmf\tex\latex\pgf\systemlayer\pgfsys.sty
+(D:\_Full_TeX\texmf\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks39
+))
+\pgf@x=\dimen151
+\pgf@y=\dimen152
+\pgf@xa=\dimen153
+\pgf@ya=\dimen154
+\pgf@xb=\dimen155
+\pgf@yb=\dimen156
+\pgf@xc=\dimen157
+\pgf@yc=\dimen158
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count117
+\c@pgf@countb=\count118
+\c@pgf@countc=\count119
+\c@pgf@countd=\count120
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(D:\_Full_TeX\texmf\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count121
+\pgfsyssoftpath@bigbuffer@items=\count122
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(D:\_Full_TeX\texmf\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(D:\_Full_TeX\texmf\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmath.code.tex
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathcalc.code.tex
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathutil.code.tex)
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen159
+\pgfmath@count=\count123
+\pgfmath@box=\box35
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.te
+x) (D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)))
+(D:\_Full_TeX\texmf\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count124
+))
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen160
+\pgf@picmaxx=\dimen161
+\pgf@picminy=\dimen162
+\pgf@picmaxy=\dimen163
+\pgf@pathminx=\dimen164
+\pgf@pathmaxx=\dimen165
+\pgf@pathminy=\dimen166
+\pgf@pathmaxy=\dimen167
+\pgf@xx=\dimen168
+\pgf@xy=\dimen169
+\pgf@yx=\dimen170
+\pgf@yy=\dimen171
+\pgf@zx=\dimen172
+\pgf@zy=\dimen173
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen174
+\pgf@path@lasty=\dimen175
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen176
+\pgf@shorten@start@additional=\dimen177
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count125
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen178
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen179
+\pgf@pt@y=\dimen180
+\pgf@pt@temp=\dimen181
+) (D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen182
+\pgf@sys@shading@range@num=\count126
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box39
+))
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(D:\_Full_TeX\texmf\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box40
+)
+(D:\_Full_TeX\texmf\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(D:\_Full_TeX\texmf\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen183
+\pgf@nodesepend=\dimen184
+)
+(D:\_Full_TeX\texmf\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(D:\_Full_TeX\texmf\tex\latex\pgf\utilities\pgffor.sty
+(D:\_Full_TeX\texmf\tex\latex\pgf\utilities\pgfkeys.sty
+(D:\_Full_TeX\texmf\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(D:\_Full_TeX\texmf\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen185
+\pgffor@skip=\dimen186
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(D:\_Full_TeX\texmf\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count127
+\pgfplotmarksize=\dimen187
+)
+\tikz@lastx=\dimen188
+\tikz@lasty=\dimen189
+\tikz@lastxsaved=\dimen190
+\tikz@lastysaved=\dimen191
+\tikzleveldistance=\dimen192
+\tikzsiblingdistance=\dimen193
+\tikz@figbox=\box41
+\tikz@tempbox=\box42
+\tikztreelevel=\count128
+\tikznumberofchildren=\count129
+\tikznumberofcurrentchild=\count130
+\tikz@fig@count=\count131
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count132
+\pgfmatrixcurrentcolumn=\count133
+\pgf@matrix@numberofcolumns=\count134
+)
+\tikz@expandcount=\count135
+
+(D:\_Full_TeX\texmf\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytop
+aths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(D:\_Full_TeX\texmf\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypos
+itioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v2.10 (rcs-revision 1.7)
+) (D:\_Full_TeX\texmf\tex\latex\eepic\epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count136
+\d@lta=\count137
+\@delta=\dimen194
+\@@delta=\dimen195
+\@gridcnt=\count138
+\@joinkind=\count139
+\@dotgap=\dimen196
+\@ddotgap=\dimen197
+\@x@diff=\count140
+\@y@diff=\count141
+\x@diff=\dimen198
+\y@diff=\dimen199
+\@dotbox=\box43
+\num@segments=\count142
+\num@segmentsi=\count143
+\@datafile=\read3
+) (D:\_Full_TeX\texmf\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(D:\_Full_TeX\texmf\tex\latex\misc\etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count144
+)
+\etb@tempcnta=\count145
+)
+(D:\_Full_TeX\texmf\tex\latex\xstring\xstring.sty
+(D:\_Full_TeX\texmf\tex\generic\xstring\xstring.tex
+\@xs@message=\write5
+\integerpart=\count146
+\decimalpart=\count147
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(D:\_Full_TeX\texmf\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\_Full_TeX\texmf\tex\latex\base\makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(D:\_Full_TeX\texmf\tex\latex\pb-diagram\pb-diagram.sty
+\dgARROWLENGTH=\skip52
+\dgTEXTARROWLENGTH=\skip53
+\dgHORIZPAD=\skip54
+\dgVERTPAD=\skip55
+\dgLABELOFFSET=\skip56
+\dgARROWPARTS=\count148
+\dgDOTSPACING=\skip57
+\dgDOTSIZE=\skip58
+\dgMAXSQUARE=\count149
+\dgMINDBLSQ=\count150
+\dgCOLUMNWIDTH=\skip59
+\dg@HORIZ=\count151
+\dg@VERT=\count152
+\dg@XLPAD=\count153
+\dg@YBPAD=\count154
+\dg@XRPAD=\count155
+\dg@YTPAD=\count156
+\dg@X=\count157
+\dg@Y=\count158
+\dg@XGRID=\count159
+\dg@YGRID=\count160
+\dg@SIZE=\count161
+\dg@USERSIZE=\count162
+\dg@DX=\count163
+\dg@DY=\count164
+\dg@XLBL=\count165
+\dg@YLBL=\count166
+\dg@XOFFSET=\count167
+\dg@YOFFSET=\count168
+\dg@LBLOFF=\count169
+\dg@XLBLOFF=\count170
+\dg@YLBLOFF=\count171
+\dg@LBLPOS=\count172
+\dg@XTEMP=\count173
+\dg@YTEMP=\count174
+\dg@ZTEMP=\count175
+\dg@XNODE=\count176
+\dg@YNODE=\count177
+\dg@XEND=\count178
+\dg@YEND=\count179
+\dg@WEND=\count180
+\dg@HEND=\count181
+\dg@COUNT=\count182
+\dg@NODEBOX=\box44
+\dg@LABONEBOX=\box45
+\dg@LABTWOBOX=\box46
+)
+(D:\_Full_TeX\texmf\tex\latex\preprint\balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen200
+)
+(D:\_Full_TeX\texmf\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen201
+)
+(D:\_Full_TeX\texmf\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(D:\_Full_TeX\texmf\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:\_Full_TeX\texmf\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count183
+\Gm@cntv=\count184
+\c@Gm@tempcnt=\count185
+\Gm@bindingoffset=\dimen202
+\Gm@wd@mp=\dimen203
+\Gm@odd@mp=\dimen204
+\Gm@even@mp=\dimen205
+\Gm@layoutwidth=\dimen206
+\Gm@layoutheight=\dimen207
+\Gm@layouthoffset=\dimen208
+\Gm@layoutvoffset=\dimen209
+\Gm@dimlist=\toks45
+
+(D:\_Full_TeX\texmf\tex\latex\geometry\geometry.cfg))
+(D:\_Full_TeX\texmf\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen210
+\ttl@minus=\dimen211
+\ttl@toksa=\toks46
+\titlewidth=\dimen212
+\titlewidthlast=\dimen213
+\titlewidthfirst=\dimen214
+)
+(D:\_Full_TeX\texmf\tex\latex\srcltx\srcltx.sty
+Package: srcltx 2006/11/12 v1.6 Source specials for inverse search in DVI files
+
+\src@lastline=\count186
+\src@new@everypar=\toks47
+\src@new@output=\toks48
+)
+\vskipBeforeTitle=\skip62
+\vskipAfterTitle=\skip63
+
+(D:\_Full_TeX\texmf\tex\latex\titlesec\block.tss
+File: block.tss 2011/12/15
+)
+\c@PaperNo=\count187
+\c@mmroTotal=\count188
+\c@mmroCorrected=\count189
+\c@mmroReviewed=\count190
+\c@mmroAccepted=\count191
+\c@mmroMayBeCompleted=\count192
+\c@mmroMustBeCompleted=\count193
+\c@mmroRejected=\count194
+\c@mmroReviewerNote=\count195
+\c@mmroTotalReviewedPapers=\count196
+\c@mmroTotalReviewerNotes=\count197
+\c@mmroFinalReviewerNotes=\count198
+\c@@authors@no=\count199
+\c@TodoCount=\count200
+\c@PictureNo=\count201
+\c@Theorem=\count202
+\c@State=\count203
+\c@Corollary=\count204
+\c@Def=\count205
+\c@Axiom=\count206
+\c@Hypothesis=\count207
+\c@Assumption=\count208
+\c@Problem=\count209
+\c@Example=\count210
+\c@Fact=\count211
+\c@Remark=\count212
+\c@Notice=\count213
+\c@Rule=\count214
+\c@Condition=\count215
+)
+("D:\Dropbox\csit-2014\Студенты\word2tex Avetisian\Donis\Donis.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+
+(D:\_Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+(D:\_Full_TeX\texmf\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 7.
+
+(D:\_Full_TeX\texmf\tex\latex\jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Package xypdf Info: Line width: 0.39998pt on input line 7.
+
+(D:\_Full_TeX\texmf\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count216
+\scratchdimen=\dimen215
+\scratchbox=\box48
+\nofMPsegments=\count217
+\nofMParguments=\count218
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count219
+\MPscratchDim=\dimen216
+\MPnumerator=\count220
+\makeMPintoPDFobject=\count221
+\everyMPtoPDFconversion=\toks50
+) ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(51.21495pt, 736.92639pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=736.92639pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-21.05504pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=15.06577pt
+* \marginparwidth=14.22636pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 1 undefined on input line 44.
+
+
+Overfull \hbox (17.37993pt too wide) in paragraph at lines 44--45
+[][]\T2A/cmr/m/n/10 T*(A)(s,e)=e, T*(A)(s,px)=T*(A)(s,p)T(A)(s,px), M*(A)(s,e)=
+e, M*(A)(s,px)=M*(A)(s,p)M(A)(s,px)).
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 1 undefined on input line 48.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 1 undefined on input line 48.
+
+[1
+
+{D:/_Full_TeX/texmf/pdftex/config/pdftex.map}]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 54.
+
+<image2.pdf, id=12, 574.145pt x 820.06375pt>
+File: image2.pdf Graphic file (type pdf)
+ <use image2.pdf>
+Package pdftex.def Info: image2.pdf used on input line 54.
+(pdftex.def)             Requested size: 8.2437pt x 15.35445pt.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 68.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 68.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 68.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 68.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 68.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 70.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 70.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 70.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 72.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 74.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 82.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 82.
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 86.
+
+<image4.pdf, id=13, 574.145pt x 820.06375pt>
+File: image4.pdf Graphic file (type pdf)
+ <use image4.pdf>
+Package pdftex.def Info: image4.pdf used on input line 86.
+(pdftex.def)             Requested size: 9.38379pt x 15.35445pt.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 86.
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 86.
+
+<image6.pdf, id=14, 574.145pt x 820.06375pt>
+File: image6.pdf Graphic file (type pdf)
+ <use image6.pdf>
+Package pdftex.def Info: image6.pdf used on input line 86.
+(pdftex.def)             Requested size: 9.38379pt x 15.35445pt.
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 86.
+
+<image8.pdf, id=15, 574.145pt x 820.06375pt>
+File: image8.pdf Graphic file (type pdf)
+ <use image8.pdf>
+Package pdftex.def Info: image8.pdf used on input line 86.
+(pdftex.def)             Requested size: 9.38379pt x 15.35445pt.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 103.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 103.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 103.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 2 undefined on input line 105.
+
+
+Overfull \hbox (98.40683pt too wide) in paragraph at lines 105--106
+\T2A/cmr/m/n/10 from the sample, p1[],p2[] in X[]*,...,p1(k),p2(k) in X(k)*, Le
+n(p1(1))=Len(p2(1))=...Len(p1(k))=Len(p2(k))=n, 
+ []
+
+[2 <D:/Dropbox/csit-2014/Студенты/word2tex Avetisian/Donis/image2.pdf> 
+<D:/Dropbox/csit-2014/Студенты/word2tex Avetisian/Donis/image4.pdf> <D:
+/Dropbox/csit-2014/Студенты/word2tex Avetisian/Donis/image6.pdf> <D:/Dr
+opbox/csit-2014/Студенты/word2tex Avetisian/Donis/image8.pdf>]
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 114.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 114.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 114.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 114.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 114.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 114.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 3 undefined on input line 114.
+
+
+Overfull \hbox (63.08876pt too wide) in paragraph at lines 114--115
+[][]\T2A/cmr/m/n/10 T[](s0(1),p1[])=s0[],...,T(k)(s0(k),p1(k))=s0(k), T[](s0(1)
+,p2[])=s0[],...,T(k)(s0(k),p2(k))=s0(k),
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 117.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 120.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 120.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 120.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 120.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 3 undefined on input line 120.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 128.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 128.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 128.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 128.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 134.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 134.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 3 undefined on input line 134.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 144.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 3 undefined on input line 144.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 3 undefined on input line 144.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 3 undefined on input line 144.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 3 undefined on input line 146.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 148.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 3 undefined on input line 148.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 3 undefined on input line 148.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|[]\T2A/cmr/m/n/10 Cur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\T2A/cmr/m/n/10 rent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\T2A/cmr/m/n/10 New
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\T2A/cmr/m/n/10 statefor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\T2A/cmr/m/n/10 Output: the
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 152.
+
+
+Overfull \hbox (6.11755pt too wide) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/10 M[]| 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 3 undefined on input line 152.
+
+
+Overfull \hbox (6.11755pt too wide) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/10 M[]| 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 3 undefined on input line 152.
+
+
+Overfull \hbox (6.11755pt too wide) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/10 M[]| 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 3 undefined on input line 165.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 169.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 169.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 169.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 169.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 169.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 3 undefined on input line 169.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 3 undefined on input line 169.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 3 undefined on input line 169.
+
+
+Overfull \hbox (70.53027pt too wide) in paragraph at lines 169--170
+[][]\T2A/cmr/m/n/10 M[](T(1)(s0(1),p1[][1]))=M[](T(1)(0,0000[1]))=0#1=M[](T(1)(
+s0(1),p2[][1]))=M[](T(1)(0,1111[1])),
+ []
+
+[3]
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 173.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 173.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 173.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 173.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 173.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 173.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 175.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 175.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 175.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 175.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 175.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 175.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 4 undefined on input line 177.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 4 undefined on input line 177.
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 190.
+
+<image10.pdf, id=35, 574.145pt x 820.06375pt>
+File: image10.pdf Graphic file (type pdf)
+ <use image10.pdf>
+Package pdftex.def Info: image10.pdf used on input line 190.
+(pdftex.def)             Requested size: 9.38379pt x 15.35445pt.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 4 undefined on input line 190.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__11_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 4 undefined on input line 193.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 4 undefined on input line 193.
+
+
+Overfull \hbox (14.32289pt too wide) in paragraph at lines 193--194
+[][]\T2A/cmr/m/n/10 A[],A[],A[],A[],A[],A[],A[],A[],A[],A[],A[],A[],A[],A[],A[]
+, [] 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__11_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 4 undefined on input line 197.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 197.
+
+
+Overfull \hbox (57.8967pt too wide) in paragraph at lines 197--198
+[][]\T2A/cmr/m/n/10 A[]=A[]=A[]=A[]=A[], A[]=A[]=A[]=A[]=A[], A[]=A[]=A[]=A[]=A
+[], 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__11_' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 4 undefined on input line 201.
+
+
+Overfull \hbox (21.82329pt too wide) in paragraph at lines 201--202
+[][]\T2A/cmr/m/n/10 s0[]=s0[]=s0[]=0, s0[]=s0[]=s0[]=6, s0[]=s0[]=s0[]=4, s0[]=
+s0[]=s0[]=2, 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 4 undefined on input line 203.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 4 undefined on input line 203.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 4 undefined on input line 203.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 206.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 209.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 209.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 209.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 209.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 209.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 209.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 212.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 212.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 212.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 212.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 212.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 212.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 4 undefined on input line 221.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 4 undefined on input line 221.
+
+
+Overfull \hbox (4.0707pt too wide) in paragraph at lines 221--222
+[][]\T2A/cmr/m/n/10 X=X[]$\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 X[]$\OMS/cmsy/m/n
+/10 $\T2A/cmr/m/n/10 X[]$\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 ...$\OMS/cmsy/m/
+n/10 $\T2A/cmr/m/n/10 X[]$\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 X[]$\OMS/cmsy/m
+/n/10 $\T2A/cmr/m/n/10 X[], Y=Y[]$\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 Y[]$\OM
+S/cmsy/m/n/10 $\T2A/cmr/m/n/10 Y[]$\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 ...$\O
+MS/cmsy/m/n/10 $\T2A/cmr/m/n/10 Y[]$\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 Y[]$\
+OMS/cmsy/m/n/10 
+ []
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 229.
+
+<image12.pdf, id=36, 574.145pt x 820.06375pt>
+File: image12.pdf Graphic file (type pdf)
+ <use image12.pdf>
+Package pdftex.def Info: image12.pdf used on input line 229.
+(pdftex.def)             Requested size: 9.38379pt x 15.35445pt.
+
+Overfull \hbox (8.4573pt too wide) in paragraph at lines 234--234
+[]|[]\T2A/cmr/m/n/10 X(D)| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 235--235
+[]|\T2A/cmr/m/n/10 0,0,0,u1,u2,u3,v1,v2,v3,w1,w2,w3,0,0,0| 
+ []
+
+
+Overfull \hbox (85.41672pt too wide) in paragraph at lines 235--235
+[]|\T2A/cmr/m/n/10 x,x,x,Q(u1,u2,u3),Q(v1,v2,v3),Q(w1,w2,w3),1,1,1| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 236--236
+[]|\T2A/cmr/m/n/10 w1,w2,w3,0,0,0,u1,u2,u3,v1,v2,v3,1,0,0| 
+ []
+
+
+Overfull \hbox (85.41672pt too wide) in paragraph at lines 236--236
+[]|\T2A/cmr/m/n/10 Q(w1,w2,w3),x,x,x,Q(u1,u2,u3),Q(v1,v2,v3),1,1,1| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 237--237
+[]|\T2A/cmr/m/n/10 v1,v2,v3,w1,w2,w3,0,0,0,u1,u2,u3,0,1,0| 
+ []
+
+
+Overfull \hbox (85.41672pt too wide) in paragraph at lines 237--237
+[]|\T2A/cmr/m/n/10 Q(v1,v2,v3),Q(w1,w2,w3),x,x,x,Q(u1,u2,u3),1,1,1| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 238--238
+[]|\T2A/cmr/m/n/10 u1,u2,u3,v1,v2,v3,w1,w2,w3,0,0,0,0,0,1| 
+ []
+
+
+Overfull \hbox (85.41672pt too wide) in paragraph at lines 238--238
+[]|\T2A/cmr/m/n/10 Q(u1,u2,u3),Q(v1,v2,v3),Q(w1,w2,w3),x,x,x,1,1,1| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 249--249
+[]|[]\T2A/cmr/m/n/10 0,0,0,u1,u2,u3,v1,v2,v3,w1,w2,w3,0,0,0| 
+ []
+
+
+Overfull \hbox (18.00558pt too wide) in paragraph at lines 249--249
+[]|\T2A/cmr/m/n/10 max(w1,w2,w3)| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 250--250
+[]|[]\T2A/cmr/m/n/10 w1,w2,w3,0,0,0,u1,u2,u3,v1,v2,v3,1,0,0| 
+ []
+
+
+Overfull \hbox (18.00558pt too wide) in paragraph at lines 250--250
+[]|\T2A/cmr/m/n/10 max(w1,w2,w3)| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 251--251
+[]|[]\T2A/cmr/m/n/10 v1,v2,v3,w1,w2,w3,0,0,0,u1,u2,u3,0,1,0| 
+ []
+
+
+Overfull \hbox (18.00558pt too wide) in paragraph at lines 251--251
+[]|\T2A/cmr/m/n/10 max(w1,w2,w3)| 
+ []
+
+
+Overfull \hbox (59.60953pt too wide) in paragraph at lines 252--252
+[]|[]\T2A/cmr/m/n/10 u1,u2,u3,v1,v2,v3,w1,w2,w3,0,0,0,0,0,1| 
+ []
+
+
+Overfull \hbox (18.00558pt too wide) in paragraph at lines 252--252
+[]|\T2A/cmr/m/n/10 max(w1,w2,w3)| 
+ []
+
+[4 <D:/Dropbox/csit-2014/Студенты/word2tex Avetisian/Donis/image10.pdf>
+ <D:/Dropbox/csit-2014/Студенты/word2tex Avetisian/Donis/image12.pdf>]
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 5 undefined on input line 257.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 261.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 261.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 5 undefined on input line 261.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 5 undefined on input line 261.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 5 undefined on input line 261.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 5 undefined on input line 261.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 263.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 263.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 263.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 263.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 263.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 265.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 265.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 265.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 265.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 265.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 265.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 267.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 271.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 271.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 271.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 271.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 271.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 271.
+
+
+Overfull \hbox (6.51813pt too wide) in paragraph at lines 271--272
+[][]\T2A/cmr/m/n/10 ,T[](s(13),F(x,M(1)(s(1)),M[](s(2)),M[](s(3)),...,M[](s(13)
+),M[](s(14)),M[](s(15))[13], 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 273.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 273.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 273.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 273.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 273.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 273.
+
+
+Overfull \hbox (6.51813pt too wide) in paragraph at lines 273--274
+[][]\T2A/cmr/m/n/10 ,T[](s(14),F(x,M(1)(s(1)),M[](s(2)),M[](s(3)),...,M[](s(13)
+),M[](s(14)),M[](s(15))[14], 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 275.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 275.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 275.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 275.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 275.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 275.
+
+
+Overfull \hbox (10.40607pt too wide) in paragraph at lines 275--276
+[][]\T2A/cmr/m/n/10 ,T[](s(15),F(x,M(1)(s(1)),M[](s(2)),M[](s(3)),...,M[](s(13)
+),M[](s(14)),M[](s(15))[15]), 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 277.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 277.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 5 undefined on input line 277.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 5 undefined on input line 277.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 5 undefined on input line 277.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 279.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 279.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 279.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 279.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 279.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 5 undefined on input line 283.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 5 undefined on input line 287.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.292 \newline
+               Current states & \multicolumn{2}{|p{2.1in}|}{New state for In...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (6.09677pt too wide) in paragraph at lines 292--292
+[]|\T2A/cmr/m/n/10 Out-
+ []
+
+
+Overfull \hbox (4.48605pt too wide) in paragraph at lines 292--292
+\T2A/cmr/m/n/10 puts| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 294--294
+[]|[]\T2A/cmr/m/n/10 0,0,0,6,6,6,4,4,4,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 294--294
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,6,6,6,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 294--294
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,6,6,6,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 295--295
+[]|[]\T2A/cmr/m/n/10 2,2,2,0,0,0,6,6,6,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 295--295
+[]|\T2A/cmr/m/n/10 4,4,4,2,2,2,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 295--295
+[]|\T2A/cmr/m/n/10 4,4,4,1,1,1,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 296--296
+[]|[]\T2A/cmr/m/n/10 4,4,4,2,2,2,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 296--296
+[]|\T2A/cmr/m/n/10 6,6,6,4,4,4,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 296--296
+[]|\T2A/cmr/m/n/10 6,6,6,4,4,4,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 297--297
+[]|[]\T2A/cmr/m/n/10 6,6,6,4,4,4,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 297--297
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,4,4,4,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 297--297
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,4,4,4,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 298--298
+[]|[]\T2A/cmr/m/n/10 1,1,1,0,0,0,6,6,6,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 298--298
+[]|\T2A/cmr/m/n/10 3,3,3,2,2,2,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 298--298
+[]|\T2A/cmr/m/n/10 3,3,3,1,1,1,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 299--299
+[]|[]\T2A/cmr/m/n/10 4,4,4,1,1,1,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (31.58655pt too wide) in paragraph at lines 299--299
+[]|\T2A/cmr/m/n/10 6,6,63,3,3,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 299--299
+[]|\T2A/cmr/m/n/10 6,6,6,3,3,3,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 300--300
+[]|[]\T2A/cmr/m/n/10 6,6,6,4,4,4,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 300--300
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,3,3,3,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 300--300
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,3,3,3,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 301--301
+[]|[]\T2A/cmr/m/n/10 0,0,0,6,6,6,4,4,4,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 301--301
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,6,6,6,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 301--301
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,6,6,6,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 302--302
+[]|[]\T2A/cmr/m/n/10 3,3,3,2,2,2,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 302--302
+[]|\T2A/cmr/m/n/10 5,5,5,4,4,4,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 302--302
+[]|\T2A/cmr/m/n/10 5,5,5,4,4,4,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 303--303
+[]|[]\T2A/cmr/m/n/10 6,6,6,3,3,3,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 303--303
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,4,4,4,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 303--303
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,4,4,4,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 304--304
+[]|[]\T2A/cmr/m/n/10 0,0,0,6,6,6,3,3,3,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 304--304
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,5,5,5,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 304--304
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,5,5,5,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 305--305
+[]|[]\T2A/cmr/m/n/10 2,2,2,0,0,0,6,6,6,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 305--305
+[]|\T2A/cmr/m/n/10 4,4,4,2,2,2,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 305--305
+[]|\T2A/cmr/m/n/10 4,4,4.1,1,1,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 306--306
+[]|[]\T2A/cmr/m/n/10 3,3,3,1,1,1,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 306--306
+[]|\T2A/cmr/m/n/10 5,5,5,3,3,3,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (38.25159pt too wide) in paragraph at lines 306--306
+[]|\T2A/cmr/m/n/10 5,5,5,3,3,3,(1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 307--307
+[]|[]\T2A/cmr/m/n/10 6,6,6,3,3,3,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 307--307
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,3,3,3,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 307--307
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,3,3,3,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 308--308
+[]|[]\T2A/cmr/m/n/10 0,0,0,6,6,6,3,3,3,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 308--308
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,5,5,5,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 308--308
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,5,5,5,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 309--309
+[]|[]\T2A/cmr/m/n/10 1,1,1,0,0,0,6,6,6,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 309--309
+[]|\T2A/cmr/m/n/10 3,3,3,2,2,2,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 309--309
+[]|\T2A/cmr/m/n/10 3,3,3,1,1,1,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 310--310
+[]|[]\T2A/cmr/m/n/10 5,5,5,4,4,4,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 310--310
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,4,4,4,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 310--310
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,4,4,4,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 311--311
+[]|[]\T2A/cmr/m/n/10 0,0,0,5,5,5,4,4,4,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 311--311
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,6,6,6,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 311--311
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,6,6,6,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 312--312
+[]|[]\T2A/cmr/m/n/10 2,2,2,0,0,0,5,5,5,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 312--312
+[]|\T2A/cmr/m/n/10 4,4,4,2,2,2,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 312--312
+[]|\T2A/cmr/m/n/10 4,4,4,1,1,1,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 313--313
+[]|[]\T2A/cmr/m/n/10 4,4,4,2,2,2,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 313--313
+[]|\T2A/cmr/m/n/10 6,6,6,4,4,4,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 313--313
+[]|\T2A/cmr/m/n/10 6,6,6,4,4,4,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 314--314
+[]|[]\T2A/cmr/m/n/10 5,5,5,3,3,3,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 314--314
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,4,4,4,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 314--314
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,4,4,4,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 315--315
+[]|[]\T2A/cmr/m/n/10 0,0,0,5,5,5,3,3,3,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 315--315
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,5,5,5,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 315--315
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,5,5,5,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 316--316
+[]|[]\T2A/cmr/m/n/10 2,2,2.0,0,0,5,5,5,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 316--316
+[]|\T2A/cmr/m/n/10 4,4,4,2,2,2,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 316--316
+[]|\T2A/cmr/m/n/10 4,4,4,1,1,1,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 317--317
+[]|[]\T2A/cmr/m/n/10 3,3,3,2,2,2,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 317--317
+[]|\T2A/cmr/m/n/10 5,5,5,4,4,4,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 317--317
+[]|\T2A/cmr/m/n/10 5,5,5,4,4,4,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 318--318
+[]|[]\T2A/cmr/m/n/10 5,5,5,4,4,4,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 318--318
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,3,3,3,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 318--318
+[]|\T2A/cmr/m/n/10 0,0,0,6,6,6,3,3,3,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 319--319
+[]|[]\T2A/cmr/m/n/10 0,0,0,5,5,5,4,4,4,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 319--319
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,6,6,6,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 319--319
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,6,6,6,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 320--320
+[]|[]\T2A/cmr/m/n/10 1,1,1,0,0,0,5,5,5,4,4,4,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 320--320
+[]|\T2A/cmr/m/n/10 3,3,3,2,2,2,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 320--320
+[]|\T2A/cmr/m/n/10 3,3,3,1,1,1,0,0,0,6,6,6,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 321--321
+[]|[]\T2A/cmr/m/n/10 4,4,4,1,1,1,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 321--321
+[]|\T2A/cmr/m/n/10 6,6,6,3,3,3,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 321--321
+[]|\T2A/cmr/m/n/10 6,6,6,3,3,3,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 322--322
+[]|[]\T2A/cmr/m/n/10 5,5,5,3,3,3,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 322--322
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,3,3,3,2,2,2,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 322--322
+[]|\T2A/cmr/m/n/10 0,0,0,5,5,5,3,3,3,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 323--323
+[]|[]\T2A/cmr/m/n/10 0,0,0,5,5,5,3,3,3,1,1,1,0,0,0| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 323--323
+[]|\T2A/cmr/m/n/10 2,2,2,0,0,0,5,5,5,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 323--323
+[]|\T2A/cmr/m/n/10 1,1,1,0,0,0,5,5,5,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 324--324
+[]|[]\T2A/cmr/m/n/10 1,1,1,0,0,0,5,5,5,3,3,3,1,1,1| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 324--324
+[]|\T2A/cmr/m/n/10 3,3,3,2,2,2,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 324--324
+[]|\T2A/cmr/m/n/10 3,3,3,1,1,1,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (41.5911pt too wide) in paragraph at lines 325--325
+[]|[]\T2A/cmr/m/n/10 3,3,3,1,1,1,0,0,0,5,5,5,3,3,3| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 325--325
+[]|\T2A/cmr/m/n/10 5,5,5,3,3,3,2,2,2,0,0,0,5,5,5| 
+ []
+
+
+Overfull \hbox (34.36365pt too wide) in paragraph at lines 325--325
+[]|\T2A/cmr/m/n/10 5,5,5,3,3,3,1,1,1,0,0,0,5,5,5| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 6 undefined on input line 328.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 6 undefined on input line 328.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 6 undefined on input line 328.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 6 undefined on input line 328.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 6 undefined on input line 328.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 6 undefined on input line 336.
+
+[6]
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 7 undefined on input line 366.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 7 undefined on input line 368.
+
+
+LaTeX Warning: Reference `GrindEQ__0_' on page 7 undefined on input line 370.
+
+
+LaTeX Warning: Reference `GrindEQ__0_' on page 7 undefined on input line 370.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 7 undefined on input line 372.
+
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 7 undefined on input line 380.
+
+
+LaTeX Warning: Reference `GrindEQ__11_' on page 7 undefined on input line 382.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 7 undefined on input line 388.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 7 undefined on input line 390.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 7 undefined on input line 390.
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 392--393
+[][]\T2A/cmr/m/n/10 If in the automaton D0, defined as above, will be changed t
+he initial state from
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 7 undefined on input line 396.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 7 undefined on input line 402.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 404.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 404.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 404.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 404.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 404.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 7 undefined on input line 404.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 408.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 408.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 408.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 410.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 410.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 412.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 7 undefined on input line 412.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 7 undefined on input line 412.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]|[]\T2A/cmr/m/n/10 Cur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\T2A/cmr/m/n/10 rent
+ []
+
+
+Overfull \hbox (3.42377pt too wide) in paragraph at lines 415--415
+\T2A/cmr/m/n/10 states| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]|\T2A/cmr/m/n/10 New
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\T2A/cmr/m/n/10 statefor
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 7 undefined on input line 416.
+
+
+Overfull \hbox (13.345pt too wide) in paragraph at lines 416--416
+[]|\T2A/cmr/m/n/10 M[]| 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 7 undefined on input line 416.
+
+
+Overfull \hbox (6.11755pt too wide) in paragraph at lines 416--416
+[]|\T2A/cmr/m/n/10 M[]| 
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 7 undefined on input line 416.
+
+
+Overfull \hbox (6.11755pt too wide) in paragraph at lines 416--416
+[]|\T2A/cmr/m/n/10 M[]| 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 416--416
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Overfull \hbox (0.53558pt too wide) in paragraph at lines 416--416
+[]|\T2A/cmr/m/n/10 M(k)| 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 417--417
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 418--418
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 419--419
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--420
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 420--420
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 421--421
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 422--422
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 423--423
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]|[]\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 k-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 424--424
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 425--425
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+[]|[]\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (4.14774pt too wide) in paragraph at lines 426--426
+\OMS/cmsy/m/n/10 $\T2A/cmr/m/n/10 k+1| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+[]|\T2A/cmr/m/n/10 2$\OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (6.10265pt too wide) in paragraph at lines 426--426
+[]|\T2A/cmr/m/n/10 ...| 
+ []
+
+[7]
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 8 undefined on input line 439.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 439.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 8 undefined on input line 439.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 8 undefined on input line 439.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 445.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 8 undefined on input line 445.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 8 undefined on input line 445.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 8 undefined on input line 447.
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 447.
+
+<image14.pdf, id=57, 574.145pt x 820.06375pt>
+File: image14.pdf Graphic file (type pdf)
+ <use image14.pdf>
+Package pdftex.def Info: image14.pdf used on input line 447.
+(pdftex.def)             Requested size: 11.37456pt x 15.35445pt.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 8 undefined on input line 447.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 8 undefined on input line 449.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 449.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 8 undefined on input line 449.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__11_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 8 undefined on input line 459.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 8 undefined on input line 462.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 8 undefined on input line 462.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 462.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 8 undefined on input line 464.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 8 undefined on input line 464.
+
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 8 undefined on input line 464.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__11_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 8 undefined on input line 466.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 8 undefined on input line 466.
+
+
+Overfull \hbox (3.87436pt too wide) in paragraph at lines 466--467
+\T2A/cmr/m/n/10 which propelling automata-components A[],A[],A[], A[],A[],A[], 
+A[],A[],A[]
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 8 undefined on input line 469.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 8 undefined on input line 469.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 8 undefined on input line 469.
+
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 8 undefined on input line 469.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 8 undefined on input line 472.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 8 undefined on input line 472.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 8 undefined on input line 472.
+
+[8 <D:/Dropbox/csit-2014/Студенты/word2tex Avetisian/Donis/image14.pdf>
+]
+
+LaTeX Warning: Reference `GrindEQ__7_' on page 9 undefined on input line 474.
+
+
+LaTeX Warning: Reference `GrindEQ__8_' on page 9 undefined on input line 474.
+
+
+LaTeX Warning: Reference `GrindEQ__9_' on page 9 undefined on input line 474.
+
+
+LaTeX Warning: Reference `GrindEQ__1_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__2_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__3_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__4_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__5_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__10_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__11_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__12_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__010_' on page 9 undefined on input line 477.
+
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__14_' on page 9 undefined on input line 477.
+
+
+LaTeX Warning: Reference `GrindEQ__15_' on page 9 undefined on input line 477.
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 477--478
+[][]\T2A/cmr/m/n/10 Inputs (1,1,1),(1,1,1),(0,0,0), supporting a previously-ini
+tialized transients, which propelling
+ []
+
+
+LaTeX Warning: Reference `GrindEQ__6_' on page 9 undefined on input line 481.
+
+
+LaTeX Warning: Reference `GrindEQ__13_' on page 9 undefined on input line 485.
+
+
+LaTeX Warning: Reference `GrindEQ__1961_' on page 9 undefined on input line 495
+.
+
+
+Overfull \hbox (41.17633pt too wide) in paragraph at lines 505--506
+[][]\T2A/cmr/m/n/10 [7] URL:http://www.encyclopediaofmath.org/index.php?title=A
+utomata,_algebraic_theory_of&oldid=11671 
+ []
+
+
+Overfull \hbox (18.95953pt too wide) in paragraph at lines 507--508
+[][]\T2A/cmr/m/n/10 [8] URL:http://www.encyclopediaofmath.org/index.php?title=A
+utomata,_composition_of&oldid=15462 
+ []
+
+
+Overfull \hbox (46.84161pt too wide) in paragraph at lines 509--510
+[][]\T2A/cmr/m/n/10 [9] URL:http://www.encyclopediaofmath.org/index.php?title=A
+utomata,_complete_systems_of&oldid=12109 
+ []
+
+[9] ("D:\Dropbox\csit-2014\Студенты\word2tex Avetisian\Donis\Donis.aux"
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16454 strings out of 493921
+ 265126 string characters out of 3150960
+ 396146 words of memory out of 3000000
+ 19343 multiletter control sequences out of 15000+200000
+ 11511 words of font info for 41 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 63i,10n,57p,3305b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/_Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/_Full_TeX/t
+exmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/_Full_TeX/texmf/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><D:/_Full_TeX/texmf/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><D:/_Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1000.pfb><D:/_F
+ull_TeX/texmf/fonts/type1/public/cm-super/sfrm1000.pfb><D:/_Full_TeX/texmf/font
+s/type1/public/cm-super/sfti1000.pfb>
+Output written on Donis.pdf (9 pages, 150316 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+
