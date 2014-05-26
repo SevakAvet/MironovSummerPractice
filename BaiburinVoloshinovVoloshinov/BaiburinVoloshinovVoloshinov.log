@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.25)  26 MAY 2014 17:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.25)  26 MAY 2014 17:50
 entering extended mode
 **BaiburinVoloshinovVoloshinov.tex
 (G:\Mironov\BaiburinVoloshinovVoloshinov\BaiburinVoloshinovVoloshinov.tex
@@ -918,6 +918,9 @@ LaTeX Font Info:    Try loading font information for T2A+cmss on input line 20.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.fd"
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 6094) has occurred while \output is active
 []\T2A/cmr/m/sl/7 Международная кон-фе-рен-ция <<Ком-пью-тер-ные на-у-ки и ин-ф
 ор-ма-ци-он-ные тех-но-ло-гии>> [], г.Саратов,
@@ -932,50 +935,50 @@ Overfull \hbox (2.22168pt too wide) has occurred while \output is active
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
-LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 69.
+LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 81.
 
 
 LaTeX Warning: Reference `GrindEQ__1_, GrindEQ__2_, GrindEQ__3_' on page 2 unde
-fined on input line 71.
+fined on input line 83.
 
 
-LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 71.
+LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 83.
 
 [2]
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 87.
+(pdftex.def)                using `viewport' instead on input line 100.
 
-<image1.pdf, id=28, 574.145pt x 820.06375pt>
+<image1.pdf, id=33, 574.145pt x 820.06375pt>
 File: image1.pdf Graphic file (type pdf)
  <use image1.pdf>
-Package pdftex.def Info: image1.pdf used on input line 87.
+Package pdftex.def Info: image1.pdf used on input line 100.
 (pdftex.def)             Requested size: 216.80951pt x 286.5205pt.
 
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 93.
+(pdftex.def)                using `viewport' instead on input line 110.
 
-<image2.pdf, id=29, 574.145pt x 820.06375pt>
+<image2.pdf, id=34, 574.145pt x 820.06375pt>
 File: image2.pdf Graphic file (type pdf)
  <use image2.pdf>
-Package pdftex.def Info: image2.pdf used on input line 93.
+Package pdftex.def Info: image2.pdf used on input line 110.
 (pdftex.def)             Requested size: 427.6555pt x 277.41786pt.
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 119.
+
+<image3.pdf, id=35, 574.145pt x 820.06375pt>
+File: image3.pdf Graphic file (type pdf)
+ <use image3.pdf>
+Package pdftex.def Info: image3.pdf used on input line 119.
+(pdftex.def)             Requested size: 419.97307pt x 272.86655pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3 <G:/Mironov/BaiburinVoloshinovVoloshinov/image1.pdf>]
-
-Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 99.
-
-<image3.pdf, id=36, 574.145pt x 820.06375pt>
-File: image3.pdf Graphic file (type pdf)
- <use image3.pdf>
-Package pdftex.def Info: image3.pdf used on input line 99.
-(pdftex.def)             Requested size: 419.97307pt x 272.86655pt.
-
-Underfull \vbox (badness 5417) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4 <G:/Mironov/BaiburinVoloshinovVoloshinov/image2.pdf> <G:/Mironov/BaiburinVo
 loshinovVoloshinov/image3.pdf>] [5]
@@ -985,13 +988,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 18030 strings out of 493921
- 313531 string characters out of 3144861
- 422131 words of memory out of 3000000
- 20883 multiletter control sequences out of 15000+200000
- 26853 words of font info for 77 fonts, out of 3000000 for 9000
+ 18048 strings out of 493921
+ 313699 string characters out of 3144861
+ 423171 words of memory out of 3000000
+ 20897 multiletter control sequences out of 15000+200000
+ 28846 words of font info for 85 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 62i,11n,56p,3265b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,13n,56p,3265b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\РЎРµРІР°Рє\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
 00\lati0900.pk> <C:\Users\РЎРµРІР°Рє\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
 h\lh-t2a\dpi600\lasx1000.pk> <C:\Users\РЎРµРІР°Рє\AppData\Local\MiKTeX\2.9\font
@@ -1005,17 +1008,22 @@ our\lh\lh-t2a\dpi600\lati1000.pk> <C:\Users\РЎРµРІР°Рє\AppData\Local\MiKTeX\2.9
 \fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\РЎРµРІР°Рє\AppData\Loc
 al\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx1200.pk><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmsl8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy8.pfb>
-Output written on BaiburinVoloshinovVoloshinov.pdf (5 pages, 495437 bytes).
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsl8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb>
+Output written on BaiburinVoloshinovVoloshinov.pdf (5 pages, 537140 bytes).
 PDF statistics:
- 471 PDF objects out of 1000 (max. 8388607)
+ 488 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
