@@ -1,9 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.25)  25 MAY 2014 18:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.25)  26 MAY 2014 17:18
 entering extended mode
 **BaiburinVoloshinovVoloshinov.tex
-
-("C:\Users\Ð¡ÐµÐ²Ð°Ðº\Desktop\word2tex Avetisian\BaiburinVoloshinovVoloshinov\B
-aiburinVoloshinovVoloshinov.tex"
+(G:\Mironov\BaiburinVoloshinovVoloshinov\BaiburinVoloshinovVoloshinov.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -32,11 +30,11 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Ð¡ÐµÐ²Ð°Ðº\Desktop\word2tex Avetisian\BaiburinVoloshinovVoloshinov\c
-sit-2014.sty"
+(G:\Mironov\BaiburinVoloshinovVoloshinov\csit-2014.sty
 Package: csit-2014 2012/03/01 International conference on Computer Science and 
 Information Technology (CSIT-2014)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -835,8 +833,7 @@ File: block.tss 2011/12/15
 \c@Rule=\count214
 \c@Condition=\count215
 )
-("C:\Users\Ð¡ÐµÐ²Ð°Ðº\Desktop\word2tex Avetisian\BaiburinVoloshinovVoloshinov\B
-aiburinVoloshinovVoloshinov.aux")
+(G:\Mironov\BaiburinVoloshinovVoloshinov\BaiburinVoloshinovVoloshinov.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
@@ -916,14 +913,11 @@ Package xypdf Info: Line width: 0.39998pt on input line 4.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 18.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.fd"
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \vbox (1.07643pt too high) has occurred while \output is active []
-
-
 Underfull \hbox (badness 6094) has occurred while \output is active
 []\T2A/cmr/m/sl/7 Ìåæäóíàðîäíàÿ êîí-ôå-ðåí-öèÿ <<Êîì-ïüþ-òåð-íûå íà-ó-êè è èí-ô
 îð-ìà-öè-îí-íûå òåõ-íî-ëî-ãèè>> [], ã.Ñàðàòîâ,
@@ -938,147 +932,90 @@ Overfull \hbox (2.22168pt too wide) has occurred while \output is active
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
-LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 60.
+LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 69.
 
 
-LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 62.
+LaTeX Warning: Reference `GrindEQ__1_, GrindEQ__2_, GrindEQ__3_' on page 2 unde
+fined on input line 71.
 
 
-LaTeX Warning: Reference `GrindEQ__6_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__175_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__16_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__70_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__23_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__79_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__22_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__24_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__13_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__19_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__69_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__264_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__30_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__30_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__114_' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `GrindEQ__207_' on page 2 undefined on input line 64.
+LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 71.
 
 [2]
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 76.
+(pdftex.def)                using `viewport' instead on input line 87.
 
-<image1.pdf, id=29, 574.145pt x 820.06375pt>
+<image1.pdf, id=28, 574.145pt x 820.06375pt>
 File: image1.pdf Graphic file (type pdf)
  <use image1.pdf>
-Package pdftex.def Info: image1.pdf used on input line 76.
+Package pdftex.def Info: image1.pdf used on input line 87.
 (pdftex.def)             Requested size: 216.80951pt x 286.5205pt.
 
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 82.
+(pdftex.def)                using `viewport' instead on input line 93.
 
-<image2.pdf, id=30, 574.145pt x 820.06375pt>
+<image2.pdf, id=29, 574.145pt x 820.06375pt>
 File: image2.pdf Graphic file (type pdf)
  <use image2.pdf>
-Package pdftex.def Info: image2.pdf used on input line 82.
+Package pdftex.def Info: image2.pdf used on input line 93.
 (pdftex.def)             Requested size: 427.6555pt x 277.41786pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <C:/Users/Ð¡ÐµÐ²Ð°Ðº/Desktop/word2tex Avetisian/BaiburinVoloshinovVoloshino
-v/image1.pdf>]
+ [3 <G:/Mironov/BaiburinVoloshinovVoloshinov/image1.pdf>]
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 88.
+(pdftex.def)                using `viewport' instead on input line 99.
 
-<image3.pdf, id=37, 574.145pt x 820.06375pt>
+<image3.pdf, id=36, 574.145pt x 820.06375pt>
 File: image3.pdf Graphic file (type pdf)
  <use image3.pdf>
-Package pdftex.def Info: image3.pdf used on input line 88.
+Package pdftex.def Info: image3.pdf used on input line 99.
 (pdftex.def)             Requested size: 419.97307pt x 272.86655pt.
 
 Underfull \vbox (badness 5417) has occurred while \output is active []
 
- [4 <C:/Users/Ð¡ÐµÐ²Ð°Ðº/Desktop/word2tex Avetisian/BaiburinVoloshinovVoloshino
-v/image2.pdf> <C:/Users/Ð¡ÐµÐ²Ð°Ðº/Desktop/word2tex Avetisian/BaiburinVoloshino
-vVoloshinov/image3.pdf>]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 115
-.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [5]
-("C:\Users\Ð¡ÐµÐ²Ð°Ðº\Desktop\word2tex Avetisian\BaiburinVoloshinovVoloshinov\B
-aiburinVoloshinovVoloshinov.aux")
+ [4 <G:/Mironov/BaiburinVoloshinovVoloshinov/image2.pdf> <G:/Mironov/BaiburinVo
+loshinovVoloshinov/image3.pdf>] [5]
+(G:\Mironov\BaiburinVoloshinovVoloshinov\BaiburinVoloshinovVoloshinov.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 18081 strings out of 493921
- 314922 string characters out of 3144861
- 422166 words of memory out of 3000000
- 20926 multiletter control sequences out of 15000+200000
- 29156 words of font info for 86 fonts, out of 3000000 for 9000
+ 18030 strings out of 493921
+ 313531 string characters out of 3144861
+ 422131 words of memory out of 3000000
+ 20883 multiletter control sequences out of 15000+200000
+ 26853 words of font info for 77 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 62i,11n,56p,3265b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,56p,3265b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
-00\latt0900.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
-h\lh-t2a\dpi600\lati0900.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\lh\lh-t2a\dpi600\lasx1000.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\Mi
+00\lati0900.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\lasx1000.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\lh\lh-t2a\dpi600\labx1000.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\Mi
 KTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasl0700.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\Ð
-¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1000.pk
-> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown
-\dpi600\larm1000.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\lh\lh-t2a\dpi600\labx0900.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9
-\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0900.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1000.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ð
-º\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Us
-ers\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx12
-00.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pf
-b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl8.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on BaiburinVoloshinovVoloshinov.pdf (5 pages, 535776 bytes).
+Data\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown\dpi600\larm1000.pk> <C:\U
+sers\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx0
+900.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
+\dpi600\larm0900.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\lh\lh-t2a\dpi600\lati1000.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Local\MiKTeX\2.9
+\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\Ð¡ÐµÐ²Ð°Ðº\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx1200.pk><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsl8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb>
+Output written on BaiburinVoloshinovVoloshinov.pdf (5 pages, 495437 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
+ 471 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
