@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.25)  26 MAY 2014 17:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.25)  26 MAY 2014 18:04
 entering extended mode
 **BaiburinVoloshinovVoloshinov.tex
 (G:\Mironov\BaiburinVoloshinovVoloshinov\BaiburinVoloshinovVoloshinov.tex
@@ -935,44 +935,44 @@ Overfull \hbox (2.22168pt too wide) has occurred while \output is active
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
-LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 81.
+LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 80.
 
 
 LaTeX Warning: Reference `GrindEQ__1_, GrindEQ__2_, GrindEQ__3_' on page 2 unde
-fined on input line 83.
+fined on input line 82.
 
 
-LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 83.
+LaTeX Warning: Reference `GrindEQ__4_' on page 2 undefined on input line 82.
 
 [2]
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 100.
+(pdftex.def)                using `viewport' instead on input line 99.
 
 <image1.pdf, id=33, 574.145pt x 820.06375pt>
 File: image1.pdf Graphic file (type pdf)
  <use image1.pdf>
-Package pdftex.def Info: image1.pdf used on input line 100.
+Package pdftex.def Info: image1.pdf used on input line 99.
 (pdftex.def)             Requested size: 216.80951pt x 286.5205pt.
 
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 110.
+(pdftex.def)                using `viewport' instead on input line 108.
 
 <image2.pdf, id=34, 574.145pt x 820.06375pt>
 File: image2.pdf Graphic file (type pdf)
  <use image2.pdf>
-Package pdftex.def Info: image2.pdf used on input line 110.
+Package pdftex.def Info: image2.pdf used on input line 108.
 (pdftex.def)             Requested size: 427.6555pt x 277.41786pt.
 
 
 Package pdftex.def Warning: Option `bb' does not make sense,
-(pdftex.def)                using `viewport' instead on input line 119.
+(pdftex.def)                using `viewport' instead on input line 117.
 
 <image3.pdf, id=35, 574.145pt x 820.06375pt>
 File: image3.pdf Graphic file (type pdf)
  <use image3.pdf>
-Package pdftex.def Info: image3.pdf used on input line 119.
+Package pdftex.def Info: image3.pdf used on input line 117.
 (pdftex.def)             Requested size: 419.97307pt x 272.86655pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1021,9 +1021,9 @@ type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 blic/amsfonts/cm/cmsl8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb>
-Output written on BaiburinVoloshinovVoloshinov.pdf (5 pages, 537140 bytes).
+Output written on BaiburinVoloshinovVoloshinov.pdf (5 pages, 538373 bytes).
 PDF statistics:
- 488 PDF objects out of 1000 (max. 8388607)
+ 490 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
